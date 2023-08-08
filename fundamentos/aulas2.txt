@@ -1,0 +1,34 @@
+Dica:
+Extensões vscode - funcionalidades extras
+Bracket pair colors (cores diferentespara chaves, colchetes,parenteses,etc)
+-------------------------------
+Sintaxe básica da linguagem javascript (js)
+1- ; no final (não é obrigatório)
+2- comceito de sentenças  (linha de códigos)
+3- conceito de bloco {}
+---------------------------------
+variaveis:
+Na linguagem JS as variaveis são dinamicamente 
+tipadas(tipo dependo do dado atribuído)
+let = cria uma variavel no JS
+const = cria uma constante no JS
+tipos de variaveis/constantes
+-numerica (inteiros e nao inteiros)
+-string (string de caracteres)
+-booleano 9 verdadeiro ou falso
+
+console.clear-limpar a tela
+console.log - (typeof()) - exibe o tipo de variavel
+
+IMPORTANTE!
+Defenindo nomes para const e variaveis:
+- nao usar espaço
+- nao usar acentos e caracteres epeciais
+- iniciar com uma letra maiusula
+- definir nomrd que estejam realacionado ao problema (codigo limpo)
+- usar a tecnica do camelo(camel case) para nomes de variaveis compostos
+EX: nome cliente - nomeCliente 
+
+------------------------------------------
+operadores aritmeticos
+- Sao usados em operaçoes aritmeticas junto as constantes / variaveis 
